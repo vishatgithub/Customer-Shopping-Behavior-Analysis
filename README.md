@@ -90,4 +90,3 @@ It showcases practical skills required for data analyst and MCA-level projects.
 
 ## 🔗 Author
 **Vishakha Mule**  
-MCA – Data Analytics  
